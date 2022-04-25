@@ -1,0 +1,36 @@
+{
+  "defenders": {
+    "azami": {
+      "primaries": ["ACS-12", "9x919SVN"],
+      "secondaries": ["D-50"]
+    },
+    "thorn": {
+      "primaries": ["UZK50GL", "M870"],
+      "secondaries": ["1911 Tacops", "C75 Auto"]
+    },
+    "thunderbird": {
+      "primaries": ["Spear .308", "Spas-15"],
+      "secondaries": ["Bearing 9", "Q-929"]
+    },
+    "aruni": {
+      "primaries": ["P10 RONI", "MK 14 EBR"],
+      "secondaries": ["PRB92"]
+    },
+    "melusi": {
+      "primaries": ["MP5", "Super 90"],
+      "secondaries": "RG15"
+    },
+    "oryx": {
+      "primaries": ["T-5 SMG", "Spas-12"],
+      "secondaries": ["USP40", "Bailiff 410"]
+    },
+    "wamai": {
+      "primaries": ["AUG A2", "MP5k"],
+      "secondaries": ["D-40", "P12"]
+    },
+    "goyo": {
+      "primaries": ["Vector .45 ACP", "TCSG12"],
+      "secondaries": ["P229 RC"]
+    }
+  }
+}
