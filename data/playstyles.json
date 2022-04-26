@@ -1,0 +1,20 @@
+{
+  "defenders": [
+    "Roam",
+    "Anchor",
+    "Shallow Roam",
+    "Flank",
+    "Runout",
+    "Spawnpeek"
+  ],
+  "attackers": [
+    "Slow",
+    "Rush",
+    "Drop Hatch",
+    "No Drone",
+    "Clear Util",
+    "Plant",
+    "Shield"
+  ],
+  "troll": ["Pistol Only", "Shotgun"]
+}
