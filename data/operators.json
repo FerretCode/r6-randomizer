@@ -31,6 +31,14 @@
     "goyo": {
       "primaries": ["Vector .45 ACP", "TCSG12"],
       "secondaries": ["P229 RC"]
+    },
+    "warden": {
+      "primaries": ["MPX", "M590A1"],
+      "secondaries": ["P-10C", "SMG-12"]
+    },
+    "mozzie": {
+      "primaries": ["P10 RONI", "Commando 9"],
+      "secondaries": ["SDP 9mm"]
     }
   }
 }
