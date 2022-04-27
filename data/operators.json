@@ -39,6 +39,18 @@
     "mozzie": {
       "primaries": ["P10 RONI", "Commando 9"],
       "secondaries": ["SDP 9mm"]
+    },
+    "kaid": {
+      "primaries": ["AUG A3", "TCSG12"],
+      "secondaries": [".44 Mag Semi-Auto", "LFP586"]
+    },
+    "clash": {
+      "primaries": ["CCE Shield"],
+      "secondaries": ["P-10C", "SPSMG9"]
+    },
+    "maestro": {
+      "primaries": ["ALDA 5.56", "ACS12"],
+      "secondaries": ["BAILIFF 410", "KERATOS .357"]
     }
   }
 }
