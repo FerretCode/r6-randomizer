@@ -50,7 +50,31 @@
     },
     "maestro": {
       "primaries": ["ALDA 5.56", "ACS12"],
-      "secondaries": ["BAILIFF 410", "KERATOS .357"]
+      "secondaries": ["Biliff 410", "Keratos .357"]
+    },
+    "alibi": {
+      "primaries": ["Mx4 Storm", "ACS-12"],
+      "secondaries": ["Bailiff 410", "Keratos .357"]
+    },
+    "vigil": {
+      "primaries": ["K1A", "BOSG.12.2"],
+      "secondaries": ["SMG-12", "C75 Auto"]
+    },
+    "ela": {
+      "primaries": ["Scorpion Evo 3 A1", "FO-12"],
+      "secondaries": ["RG15"]
+    },
+    "lesion": {
+      "primaries": ["SIX12 SD", "T-5 SMG"],
+      "secondaries": ["Q-929"]
+    },
+    "mira": {
+      "primaries": ["Vector .45 ACP", "ITA12L"],
+      "secondaries": ["USP40", "ITA12S"]
+    },
+    "echo": {
+      "primaries": ["MP5SD", "Supernova"],
+      "secondaries": ["Bearing-9", "P229 RC"]
     }
   }
 }
