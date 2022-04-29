@@ -75,6 +75,58 @@
     "echo": {
       "primaries": ["MP5SD", "Supernova"],
       "secondaries": ["Bearing-9", "P229 RC"]
+    },
+    "caveria": {
+      "primaries": ["M12", "Spas-15"],
+      "secondaries": ["Lusion"]
+    },
+    "valkyrie": {
+      "primaries": ["MPX", "Spas-12"],
+      "secondaries": ["D-50"]
+    },
+    "frost": {
+      "primaries": ["Super 90", "9mm C1"],
+      "secondaries": ["MK1 9mm", "ITA12S"]
+    },
+    "mute": {
+      "primaries": ["MP5k", "M590A1"],
+      "secondaries": ["SMG-11", "P226 MK 25"]
+    },
+    "smoke": {
+      "primaries": ["FMG-9", "M590A1"],
+      "secondaries": ["SMG-11", "P226 MK 25"]
+    },
+    "castle": {
+      "primaries": ["UMP-45", "M1014"],
+      "secondaries": ["5.7 USG", "Super Shorty"]
+    },
+    "pulse": {
+      "primaries": ["UMP-45", "M1014"],
+      "secondaries": ["5.7 USG", "M45 Meusoc"]
+    },
+    "doc": {
+      "primaries": ["MP5", "P90", "SG-CQB"],
+      "secondaries": ["P9", "LFP586"]
+    },
+    "rook": {
+      "primaries": ["MP5", "P90", "SG-CQB"],
+      "secondaries": ["P9", "LFP586"]
+    },
+    "jager": {
+      "primaries": ["M870", "416-C Carbine"],
+      "secondaries": ["P12"]
+    },
+    "bandit": {
+      "primaries": ["MP7", "M870"],
+      "secondaries": ["P12"]
+    },
+    "tachanka": {
+      "primaries": ["DP27", "9x919SVN"],
+      "secondaries": ["PMM", "GSH-18"]
+    },
+    "kapkan": {
+      "primaries": ["9x919SVN", "SASG-12"],
+      "secondaries": ["PMM", "GSH-18"]
     }
   }
 }
