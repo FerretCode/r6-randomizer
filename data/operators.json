@@ -128,5 +128,6 @@
       "primaries": ["9x919SVN", "SASG-12"],
       "secondaries": ["PMM", "GSH-18"]
     }
-  }
+  },
+  "attackers": {}
 }
